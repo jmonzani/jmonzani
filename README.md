@@ -4,17 +4,15 @@ Soy de Buenos Aires, Argentina. Me considero una persona responsable y respetuos
 
 He adquirido conocimientos sobre las siguientes tecnologías:
 
-  -Front-End: 
+  -Front-End:  
   
-    -React
-    
-    -React-Redux
-    
-    -HTML
-    
+    -React    
+    -React-Redux    
+    -HTML    
     -CSS
     
   -Back-End:
+  
     -Node.JS
     -Express
     -PosgreSQL
