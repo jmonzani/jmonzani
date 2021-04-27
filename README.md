@@ -3,6 +3,7 @@
 Soy de Buenos Aires, Argentina. Me considero una persona responsable y respetuosa, motivado siempre a cumplir las metas u objetivos que se me propongan y capaz de adaptarme e incorporar nuevos conocimientos para llevar a cabo los objetivos de la mejor manera posible.
 
 He adquirido conocimientos sobre las siguientes tecnologías:
+
   -Front-End: 
     -React
     -React-Redux
