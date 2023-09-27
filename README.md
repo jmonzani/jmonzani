@@ -16,6 +16,7 @@ He adquirido conocimientos sobre las siguientes tecnologías:
     -Node.JS
     -Express
     -PosgreSQL
+    -MongoDB
     
 Actualmente me encuentro aprendiendo a trabajar con: TypeScrypt, Supabase, librerias de diseño UI (Ant Design UI), obviamente siempre buscando perfeccionar las tecnologias ya aprendidas.
 
